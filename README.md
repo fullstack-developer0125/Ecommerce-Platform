@@ -19,7 +19,7 @@
 
 ## Installation (Client)
 
-1. Clone this repository: `git clone https://github.com/AI-crypto1010/ecommerce.git`
+1. Clone this repository: `git clone https://github.com/fullstack-developer0125/Ecommerce-Platform/edit/main/`
 2. Navigate to the client directory: `cd client`
 3. Install dependencies: `npm install`
 4. Start the client: `npm start`
